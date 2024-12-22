@@ -1,4 +1,4 @@
-# MatchingGame
+# FruitMatch
 
 To start your Phoenix server:
 
